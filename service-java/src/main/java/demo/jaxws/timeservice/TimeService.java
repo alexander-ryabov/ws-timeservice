@@ -9,7 +9,7 @@ import javax.jws.soap.SOAPBinding;
  */
 @WebService
 @SOAPBinding(style = SOAPBinding.Style.RPC)
-public interface TimeServer {
+public interface TimeService {
 
     @WebMethod
     String getTimeAsString();
