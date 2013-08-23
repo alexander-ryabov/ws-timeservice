@@ -60,7 +60,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>demo.jaxws.timeservice.TimeServerPublisher</mainClass>
+                    <mainClass>demo.jaxws.timeservice.TimeServicePublisher</mainClass>
                 </configuration>
             </plugin>
         </plugins>
